@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\bin\Debug\KeyboardDesign.exe.config
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\bin\Debug\KeyboardDesign.exe
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\bin\Debug\KeyboardDesign.pdb
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\obj\Debug\KeyboardDesign.csprojAssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\obj\Debug\VeriGirisEkrani.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\obj\Debug\KeyboardDesign.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\obj\Debug\KeyboardDesign.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\obj\Debug\KeyboardDesign.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\obj\Debug\KeyboardDesign.exe
+C:\Users\furka\OneDrive\Masaüstü\software_eng\VisualStudioProjects\VeriGirisEkrani\KeyboardDesign\obj\Debug\KeyboardDesign.pdb
