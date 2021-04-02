@@ -530,7 +530,7 @@ namespace VeriGirisEkrani
             this.letterE.TabIndex = 118;
             this.letterE.Text = "E";
             this.letterE.UseVisualStyleBackColor = true;
-            this.letterE.Click += new System.EventHandler(this.letterE_Click_1);
+            this.letterE.Click += new System.EventHandler(this.btn_click);
             // 
             // number2
             // 
@@ -540,7 +540,7 @@ namespace VeriGirisEkrani
             this.number2.TabIndex = 117;
             this.number2.Text = "2";
             this.number2.UseVisualStyleBackColor = true;
-            this.number2.Click += new System.EventHandler(this.number2_Click_1);
+            this.number2.Click += new System.EventHandler(this.btn_click);
             // 
             // number6
             // 
@@ -550,7 +550,7 @@ namespace VeriGirisEkrani
             this.number6.TabIndex = 116;
             this.number6.Text = "6";
             this.number6.UseVisualStyleBackColor = true;
-            this.number6.Click += new System.EventHandler(this.number6_Click_1);
+            this.number6.Click += new System.EventHandler(this.btn_click);
             // 
             // right_button
             // 
@@ -580,7 +580,7 @@ namespace VeriGirisEkrani
             this.number3.TabIndex = 113;
             this.number3.Text = "3";
             this.number3.UseVisualStyleBackColor = true;
-            this.number3.Click += new System.EventHandler(this.number3_Click_1);
+            this.number3.Click += new System.EventHandler(this.btn_click);
             // 
             // number1
             // 
@@ -590,7 +590,7 @@ namespace VeriGirisEkrani
             this.number1.TabIndex = 112;
             this.number1.Text = "1";
             this.number1.UseVisualStyleBackColor = true;
-            this.number1.Click += new System.EventHandler(this.number1_Click_1);
+            this.number1.Click += new System.EventHandler(this.btn_click);
             // 
             // space_button
             // 
@@ -598,9 +598,9 @@ namespace VeriGirisEkrani
             this.space_button.Name = "space_button";
             this.space_button.Size = new System.Drawing.Size(582, 50);
             this.space_button.TabIndex = 111;
-            this.space_button.Text = "Space";
+            this.space_button.Text = "  ";
             this.space_button.UseVisualStyleBackColor = true;
-            this.space_button.Click += new System.EventHandler(this.space_button_Click_1);
+            this.space_button.Click += new System.EventHandler(this.btn_click);
             // 
             // letterC2
             // 
@@ -610,7 +610,7 @@ namespace VeriGirisEkrani
             this.letterC2.TabIndex = 110;
             this.letterC2.Text = "Ç";
             this.letterC2.UseVisualStyleBackColor = true;
-            this.letterC2.Click += new System.EventHandler(this.letterC2_Click_1);
+            this.letterC2.Click += new System.EventHandler(this.btn_click);
             // 
             // letterO2
             // 
@@ -620,7 +620,7 @@ namespace VeriGirisEkrani
             this.letterO2.TabIndex = 109;
             this.letterO2.Text = "Ö";
             this.letterO2.UseVisualStyleBackColor = true;
-            this.letterO2.Click += new System.EventHandler(this.letterO2_Click_1);
+            this.letterO2.Click += new System.EventHandler(this.btn_click);
             // 
             // letterM
             // 
@@ -630,7 +630,7 @@ namespace VeriGirisEkrani
             this.letterM.TabIndex = 108;
             this.letterM.Text = "M";
             this.letterM.UseVisualStyleBackColor = true;
-            this.letterM.Click += new System.EventHandler(this.letterM_Click_1);
+            this.letterM.Click += new System.EventHandler(this.btn_click);
             // 
             // letterN
             // 
@@ -640,7 +640,7 @@ namespace VeriGirisEkrani
             this.letterN.TabIndex = 107;
             this.letterN.Text = "N";
             this.letterN.UseVisualStyleBackColor = true;
-            this.letterN.Click += new System.EventHandler(this.letterN_Click_1);
+            this.letterN.Click += new System.EventHandler(this.btn_click);
             // 
             // letterB
             // 
@@ -650,7 +650,7 @@ namespace VeriGirisEkrani
             this.letterB.TabIndex = 106;
             this.letterB.Text = "B";
             this.letterB.UseVisualStyleBackColor = true;
-            this.letterB.Click += new System.EventHandler(this.letterB_Click_1);
+            this.letterB.Click += new System.EventHandler(this.btn_click);
             // 
             // letterV
             // 
@@ -660,7 +660,7 @@ namespace VeriGirisEkrani
             this.letterV.TabIndex = 105;
             this.letterV.Text = "V";
             this.letterV.UseVisualStyleBackColor = true;
-            this.letterV.Click += new System.EventHandler(this.letterV_Click_1);
+            this.letterV.Click += new System.EventHandler(this.btn_click);
             // 
             // letterC
             // 
@@ -670,7 +670,7 @@ namespace VeriGirisEkrani
             this.letterC.TabIndex = 104;
             this.letterC.Text = "C";
             this.letterC.UseVisualStyleBackColor = true;
-            this.letterC.Click += new System.EventHandler(this.letterC_Click_1);
+            this.letterC.Click += new System.EventHandler(this.btn_click);
             // 
             // letterX
             // 
@@ -680,7 +680,7 @@ namespace VeriGirisEkrani
             this.letterX.TabIndex = 103;
             this.letterX.Text = "X";
             this.letterX.UseVisualStyleBackColor = true;
-            this.letterX.Click += new System.EventHandler(this.letterX_Click_1);
+            this.letterX.Click += new System.EventHandler(this.btn_click);
             // 
             // letterZ
             // 
@@ -690,7 +690,7 @@ namespace VeriGirisEkrani
             this.letterZ.TabIndex = 102;
             this.letterZ.Text = "Z";
             this.letterZ.UseVisualStyleBackColor = true;
-            this.letterZ.Click += new System.EventHandler(this.letterZ_Click_1);
+            this.letterZ.Click += new System.EventHandler(this.btn_click);
             // 
             // letterS
             // 
@@ -700,7 +700,7 @@ namespace VeriGirisEkrani
             this.letterS.TabIndex = 101;
             this.letterS.Text = "S";
             this.letterS.UseVisualStyleBackColor = true;
-            this.letterS.Click += new System.EventHandler(this.letterS_Click_1);
+            this.letterS.Click += new System.EventHandler(this.btn_click);
             // 
             // lettter_i
             // 
@@ -711,7 +711,7 @@ namespace VeriGirisEkrani
             this.lettter_i.TabIndex = 99;
             this.lettter_i.Text = "İ";
             this.lettter_i.UseVisualStyleBackColor = true;
-            this.lettter_i.Click += new System.EventHandler(this.lettter_i_Click_1);
+            this.lettter_i.Click += new System.EventHandler(this.btn_click);
             // 
             // number9
             // 
@@ -722,7 +722,7 @@ namespace VeriGirisEkrani
             this.number9.TabIndex = 98;
             this.number9.Text = "9";
             this.number9.UseVisualStyleBackColor = true;
-            this.number9.Click += new System.EventHandler(this.number9_Click_1);
+            this.number9.Click += new System.EventHandler(this.btn_click);
             // 
             // number0
             // 
@@ -733,7 +733,7 @@ namespace VeriGirisEkrani
             this.number0.TabIndex = 97;
             this.number0.Text = "0";
             this.number0.UseVisualStyleBackColor = true;
-            this.number0.Click += new System.EventHandler(this.number0_Click_1);
+            this.number0.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterU2
             // 
@@ -744,7 +744,7 @@ namespace VeriGirisEkrani
             this.lettterU2.TabIndex = 96;
             this.lettterU2.Text = "Ü";
             this.lettterU2.UseVisualStyleBackColor = true;
-            this.lettterU2.Click += new System.EventHandler(this.lettterU2_Click_1);
+            this.lettterU2.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterJ
             // 
@@ -755,7 +755,7 @@ namespace VeriGirisEkrani
             this.lettterJ.TabIndex = 73;
             this.lettterJ.Text = "J";
             this.lettterJ.UseVisualStyleBackColor = true;
-            this.lettterJ.Click += new System.EventHandler(this.lettterJ_Click_1);
+            this.lettterJ.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterI
             // 
@@ -766,7 +766,7 @@ namespace VeriGirisEkrani
             this.lettterI.TabIndex = 94;
             this.lettterI.Text = "I";
             this.lettterI.UseVisualStyleBackColor = true;
-            this.lettterI.Click += new System.EventHandler(this.lettterI_Click_1);
+            this.lettterI.Click += new System.EventHandler(this.btn_click);
             // 
             // number5
             // 
@@ -777,7 +777,7 @@ namespace VeriGirisEkrani
             this.number5.TabIndex = 93;
             this.number5.Text = "5";
             this.number5.UseVisualStyleBackColor = true;
-            this.number5.Click += new System.EventHandler(this.number5_Click_1);
+            this.number5.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterS2
             // 
@@ -788,7 +788,7 @@ namespace VeriGirisEkrani
             this.lettterS2.TabIndex = 74;
             this.lettterS2.Text = "Ş";
             this.lettterS2.UseVisualStyleBackColor = true;
-            this.lettterS2.Click += new System.EventHandler(this.lettterS2_Click_1);
+            this.lettterS2.Click += new System.EventHandler(this.btn_click);
             // 
             // number8
             // 
@@ -799,7 +799,7 @@ namespace VeriGirisEkrani
             this.number8.TabIndex = 75;
             this.number8.Text = "8";
             this.number8.UseVisualStyleBackColor = true;
-            this.number8.Click += new System.EventHandler(this.number8_Click_1);
+            this.number8.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterG2
             // 
@@ -810,7 +810,7 @@ namespace VeriGirisEkrani
             this.lettterG2.TabIndex = 76;
             this.lettterG2.Text = "Ğ";
             this.lettterG2.UseVisualStyleBackColor = true;
-            this.lettterG2.Click += new System.EventHandler(this.lettterG2_Click_1);
+            this.lettterG2.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterH
             // 
@@ -821,7 +821,7 @@ namespace VeriGirisEkrani
             this.lettterH.TabIndex = 77;
             this.lettterH.Text = "H";
             this.lettterH.UseVisualStyleBackColor = true;
-            this.lettterH.Click += new System.EventHandler(this.lettterH_Click_1);
+            this.lettterH.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterU
             // 
@@ -832,7 +832,7 @@ namespace VeriGirisEkrani
             this.lettterU.TabIndex = 78;
             this.lettterU.Text = "U";
             this.lettterU.UseVisualStyleBackColor = true;
-            this.lettterU.Click += new System.EventHandler(this.lettterU_Click_1);
+            this.lettterU.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterD
             // 
@@ -843,7 +843,7 @@ namespace VeriGirisEkrani
             this.lettterD.TabIndex = 79;
             this.lettterD.Text = "D";
             this.lettterD.UseVisualStyleBackColor = true;
-            this.lettterD.Click += new System.EventHandler(this.lettterD_Click_1);
+            this.lettterD.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterR
             // 
@@ -854,7 +854,7 @@ namespace VeriGirisEkrani
             this.lettterR.TabIndex = 80;
             this.lettterR.Text = "R";
             this.lettterR.UseVisualStyleBackColor = true;
-            this.lettterR.Click += new System.EventHandler(this.lettterR_Click_1);
+            this.lettterR.Click += new System.EventHandler(this.btn_click);
             // 
             // number4
             // 
@@ -865,7 +865,7 @@ namespace VeriGirisEkrani
             this.number4.TabIndex = 81;
             this.number4.Text = "4";
             this.number4.UseVisualStyleBackColor = true;
-            this.number4.Click += new System.EventHandler(this.number4_Click_1);
+            this.number4.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterL
             // 
@@ -876,7 +876,7 @@ namespace VeriGirisEkrani
             this.lettterL.TabIndex = 82;
             this.lettterL.Text = "L";
             this.lettterL.UseVisualStyleBackColor = true;
-            this.lettterL.Click += new System.EventHandler(this.lettterL_Click_1);
+            this.lettterL.Click += new System.EventHandler(this.btn_click);
             // 
             // number7
             // 
@@ -887,7 +887,7 @@ namespace VeriGirisEkrani
             this.number7.TabIndex = 83;
             this.number7.Text = "7";
             this.number7.UseVisualStyleBackColor = true;
-            this.number7.Click += new System.EventHandler(this.number7_Click_1);
+            this.number7.Click += new System.EventHandler(this.btn_click);
             // 
             // enter
             // 
@@ -909,7 +909,7 @@ namespace VeriGirisEkrani
             this.lettterP.TabIndex = 85;
             this.lettterP.Text = "P";
             this.lettterP.UseVisualStyleBackColor = true;
-            this.lettterP.Click += new System.EventHandler(this.lettterP_Click_1);
+            this.lettterP.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterG
             // 
@@ -920,7 +920,7 @@ namespace VeriGirisEkrani
             this.lettterG.TabIndex = 86;
             this.lettterG.Text = "G";
             this.lettterG.UseVisualStyleBackColor = true;
-            this.lettterG.Click += new System.EventHandler(this.lettterG_Click_1);
+            this.lettterG.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterY
             // 
@@ -931,7 +931,7 @@ namespace VeriGirisEkrani
             this.lettterY.TabIndex = 87;
             this.lettterY.Text = "Y";
             this.lettterY.UseVisualStyleBackColor = true;
-            this.lettterY.Click += new System.EventHandler(this.lettterY_Click_1);
+            this.lettterY.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterK
             // 
@@ -942,7 +942,7 @@ namespace VeriGirisEkrani
             this.lettterK.TabIndex = 88;
             this.lettterK.Text = "K";
             this.lettterK.UseVisualStyleBackColor = true;
-            this.lettterK.Click += new System.EventHandler(this.lettterK_Click_1);
+            this.lettterK.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterO
             // 
@@ -953,7 +953,7 @@ namespace VeriGirisEkrani
             this.lettterO.TabIndex = 89;
             this.lettterO.Text = "O";
             this.lettterO.UseVisualStyleBackColor = true;
-            this.lettterO.Click += new System.EventHandler(this.lettterO_Click_1);
+            this.lettterO.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterF
             // 
@@ -964,7 +964,7 @@ namespace VeriGirisEkrani
             this.lettterF.TabIndex = 90;
             this.lettterF.Text = "F";
             this.lettterF.UseVisualStyleBackColor = true;
-            this.lettterF.Click += new System.EventHandler(this.lettterF_Click_1);
+            this.lettterF.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterA
             // 
@@ -975,7 +975,7 @@ namespace VeriGirisEkrani
             this.lettterA.TabIndex = 91;
             this.lettterA.Text = "A";
             this.lettterA.UseVisualStyleBackColor = true;
-            this.lettterA.Click += new System.EventHandler(this.lettterA_Click_1);
+            this.lettterA.Click += new System.EventHandler(this.btn_click);
             // 
             // lettterT
             // 
@@ -986,7 +986,7 @@ namespace VeriGirisEkrani
             this.lettterT.TabIndex = 92;
             this.lettterT.Text = "T";
             this.lettterT.UseVisualStyleBackColor = true;
-            this.lettterT.Click += new System.EventHandler(this.lettterT_Click_1);
+            this.lettterT.Click += new System.EventHandler(this.btn_click);
             // 
             // letterW
             // 
@@ -997,7 +997,7 @@ namespace VeriGirisEkrani
             this.letterW.TabIndex = 100;
             this.letterW.Text = "W";
             this.letterW.UseVisualStyleBackColor = true;
-            this.letterW.Click += new System.EventHandler(this.letterW_Click_1);
+            this.letterW.Click += new System.EventHandler(this.btn_click);
             // 
             // letterQ
             // 
@@ -1008,7 +1008,7 @@ namespace VeriGirisEkrani
             this.letterQ.TabIndex = 95;
             this.letterQ.Text = "Q";
             this.letterQ.UseVisualStyleBackColor = true;
-            this.letterQ.Click += new System.EventHandler(this.letterQ_Click_1);
+            this.letterQ.Click += new System.EventHandler(this.btn_click);
             // 
             // UI
             // 
